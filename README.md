@@ -22,7 +22,7 @@ The CRNCH 2025 Summit was be held on February 13th-14th. Please check the [offic
 |            |                                                  | **Matt Sinclair**, Wisconsin [[Bio & Abstract](presenter-abstracts.md#rethinking-the-control-plane-for-chiplet-based-heterogeneous-systems)] |
 |            |                                                  | *Rethinking the Control Plane for Chiplet-Based Heterogeneous Systems*  |
 | 11:45 PM   | **Lunch Talk**                                   | **Peter Kogge** Notre Dame [[Bio & Abstract](presenter-abstracts.md#energy-efficient-computing-do-we-have-a-roadmap)] |
-|            | *Session chair – Rich Vuduc*                     | *Energy-Efficient Computing: DO we have a Roadmap?*  |
+|            | *Session chair – Rich Vuduc*                     | *Energy-Efficient Computing: Do we have a Roadmap?*  |
 | 1:00 PM    | **Beyond GPUs**                                  | **Eriko Nurvitadhi** Mangoboost [[Bio & Abstract](presenter-abstracts.md#accelerating-ai-infrastructure-using-data-processing-units-dpus)] |
 |            | *Session chair – Hyesoon Kim*                    | *Accelerating AI Infrastructure Using Data Processing Units (DPUs)*  |
 |            |                                                  | **Alex Daglis** Georgia Tech [[Bio & Abstract](presenter-abstracts.md#scaling-the-memory-wall-with-serial-interfaces)] |
