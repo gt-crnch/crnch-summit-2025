@@ -1,6 +1,6 @@
 # CRNCH Summit 2025 Archival Site
 
-The CRNCH 2025 Summit was be held on February 13th-14th. Please check the [official site](https://crnch.gatech.edu/crnch-summit-2025/) for more detail. This site contains links to slides for those presenters who provided them.
+The CRNCH 2025 Summit was held on February 13th-14th. Please check the [official site](https://crnch.gatech.edu/crnch-summit-2025/) for more detail. This site contains links to slides for those presenters who provided them.
 
 ## Thursday, February 13th, 2025
 
